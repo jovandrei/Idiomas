@@ -51,9 +51,11 @@
 						
 				<div class="menu-main-menu-container">
 					<ul class="sf-menu sf-js-enabled" id="menu-main-menu">
-						<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://classroom.livemocha.com/class-schedule/">Introduction</a></li>
-						<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-55"><a href="http://classroom.livemocha.com/my-classes/">Log In</a></li>
-						<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://classroom.livemocha.com/online-courses/">About Us</a></li>
+						<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="#">Introduction</a></li>
+						<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-55"><a href="#">Log In</a></li>
+						<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="#">Categories</a></li>
+						<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="#">Request Access</a></li>
+						<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="#">FAQs</a></li>
 					</ul>
 				</div>		
 			</div>
@@ -76,7 +78,7 @@
 						<input type="password" name="pwd" id="pwd">
 						<div id="pwd_error"></div>
 						
-						<p><a href="http://livemocha.com/wp-login.php?action=lostpassword&amp;redirect_to=http://classroom.livemocha.com/my-classes/">Forgot your password?</a></p>
+						<p><a href="#">Forgot your password?</a></p>
 						
 						<div class="button_wrapper button_wrapper_right"><a class="button" id="submit_login">Login</a></div>
 						
@@ -95,4 +97,5 @@
 		
 		<div class="clear"></div>
 	</div><!--.container-->
+	<?php include('footer.php');?>
 </div><!--#main-->

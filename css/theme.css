@@ -30,6 +30,7 @@ figure img {
 
 body {
 	background			: 	#ffffff url("http://fc07.deviantart.net/fs43/f/2009/143/1/f/Tecnologico_de_Monterrey_by_nym_corleone.jpg") repeat;
+	background			: 	#ffffff url("http://fc05.deviantart.net/fs43/i/2009/143/0/a/Tecnologico_de_Monterrey_by_nym_corleone.jpg") repeat;
 	padding				: 	0;
 	font-family			: 	"Helvetica","Arial", sans-serif;
 	color				: 	#7C6951;
@@ -2028,7 +2029,7 @@ ol li {
 	min-height			:	180px;
 	width				:	990px;
 	padding				:	10px 15px;
-	background			: 	#503D29;
+	background			: 	#202b66;
 	text-align			:	center;
 	margin				:	0 auto;
 	display				:	block;
@@ -2064,7 +2065,7 @@ ol li {
 	padding				:	10px 15px 0 15px;
 	font-size			:	10px;
 	color				:	#FFF;
-	background			:	#503D29;
+	background			:	#202b66;
 }
 
 #footer .copyright a,
