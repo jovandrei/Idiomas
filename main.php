@@ -1,3 +1,4 @@
+
 <div id="main"><!-- this encompasses the entire Web site -->
 	<div id="header">
 		<header>
@@ -13,6 +14,7 @@
 	</div><!--#header-->
 	
 	<div class="container">
+	
 		<style>
 		
 			#sidebar-left ul li.current-menu-item a {
@@ -63,14 +65,14 @@
 			<div class="content-right">
 			
 						
-					<h2 class="account_title">Log in</h2>
+					<h2 class="account_title">Please log in</h2>
 
 					<form name="login_form" id="login_form">
 					
 					<div class="password_wrapper">
 				
 						<input type="hidden" value="http://classroom.livemocha.com/mis-clases/?lang=es" name="es"> <input type="hidden" value="http://classroom.livemocha.com/minhas-aulas/?lang=pt-br" name="pt-br">				
-						<p class="form_inputs"><strong>ID</strong></p>
+						<p class="form_inputs"><strong>Student ID</strong></p>
 						<input type="text" name="log" id="log">
 						<div id="log_error"></div>
 						
@@ -86,7 +88,7 @@
 						
 					</div>
 					
-					<p>If you are not yet a member, send out a request</p>
+					<p>If you are not yet a member, send a request to get full access today!</p>
 					
 					</form>
 				
