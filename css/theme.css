@@ -29,8 +29,9 @@ figure img {
 -------------------------------------------------------------- */
 
 body {
-	background			: 	#ffffff url("http://fc07.deviantart.net/fs43/f/2009/143/1/f/Tecnologico_de_Monterrey_by_nym_corleone.jpg") repeat;
-	background			: 	#ffffff url("http://fc05.deviantart.net/fs43/i/2009/143/0/a/Tecnologico_de_Monterrey_by_nym_corleone.jpg") repeat;
+	/*background			: 	#ffffff url("http://fc07.deviantart.net/fs43/f/2009/143/1/f/Tecnologico_de_Monterrey_by_nym_corleone.jpg") repeat;*/
+	background			: 	#ffffff url("../images/background.jpg") repeat;
+	/*background			: 	#ffffff url("http://fc05.deviantart.net/fs43/i/2009/143/0/a/Tecnologico_de_Monterrey_by_nym_corleone.jpg") repeat;*/
 	padding				: 	0;
 	font-family			: 	"Helvetica","Arial", sans-serif;
 	color				: 	#7C6951;
