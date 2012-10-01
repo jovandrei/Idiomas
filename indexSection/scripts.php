@@ -102,15 +102,17 @@ jQuery(document).ready(function() {
 		var timezone = jstz.determine();
 		var check = checkform();
 		if (check) {
-			
+
+			data2 = "http://127.0.0.1/Projecto-Idiomas/userIndex.php";
+			window.location.href = data2;
 			var str2 = jQuery("#login_form").serialize();
-			jQuery.ajax({type: "POST", url: "http://classroom.livemocha.com/wp-content/themes/live-mocha-theme/process-login.php", data: str2+"&timezone="+timezone.name(), success: function(data)
+			jQuery.ajax({type: "POST", url: "http://classroom.livemocha.com/wp-content/themes/live-mocha-theme/process-login2.php", data: str2+"&timezone="+timezone.name(), success: function(data)
 			{
 				
 				if(data !== '') {
 					
 					//alert(data);
-					window.location.href = data;
+					window.location.href = data2;
 					
 				} else {
 					
