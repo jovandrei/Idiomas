@@ -10,4 +10,6 @@
 	<script type="text/javascript" src="http://dzggv69fpq0a3.cloudfront.net/wp-includes/js/jquery/jquery.js?e83a2c"></script>
 	<script type="text/javascript" src="http://dzggv69fpq0a3.cloudfront.net/wp-content/themes/live-mocha-theme/js/jquery.jcarousel.min.js?e83a2c"></script>
 	<script type="text/javascript" src="http://dzggv69fpq0a3.cloudfront.net/wp-content/themes/live-mocha-theme/js/jstz.min.js?e83a2c"></script>		
+	
+	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/base/jquery-ui.css" type="text/css" media="all">
 </head>
