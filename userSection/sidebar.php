@@ -81,7 +81,7 @@
 				<li class="cat-item cat-item-297">
 					<a href="#" title="View all posts filed under Diary of a Language Teacher">
 						Select words
-					</a> (2)
+					</a>
 				</li>
 				
 				<li class="cat-item cat-item-336">
